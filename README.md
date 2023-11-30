@@ -1,2 +1,2 @@
-# C22MPAttention
-Catch22MP Attention for Time Series Forecasting
+# C22Attn
+Catch22 Attention for Time Series Forecasting
